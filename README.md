@@ -26,7 +26,7 @@ We implemented the higher order DTMC and CTMC models from scratch to solidify ou
 
 ## An encouraging message from DJ MARKOV:
 
-Life is a dance floor. Have fun with it :^)
+Life is a dance floor; you don't need to be a great dancer, just an enthusiastic one :-)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Bjt7mDVCLtk
 " target="_blank"><img src="http://img.youtube.com/vi/Bjt7mDVCLtk/0.jpg" 
