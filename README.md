@@ -25,7 +25,9 @@ Second, we wanted DJ MARKOV to mix together similar-sounding compositions more f
 We implemented the higher order DTMC and CTMC models from scratch to solidify our understanding of the material. With this framework and some other clever music representations, DJ MARKOV was able to generate songs that were recognizably derived from the source material and mix them together (somewhat) smoothly. 
 
 ## An encouraging message from DJ MARKOV:
+
 Life is a dance floor. Have fun with it :^)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Bjt7mDVCLtk
 " target="_blank"><img src="http://img.youtube.com/vi/Bjt7mDVCLtk/0.jpg" 
 alt="groove" width="240" height="180" border="10" /></a>
