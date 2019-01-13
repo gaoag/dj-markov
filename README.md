@@ -14,7 +14,7 @@ This project had two primary goals.
 1. Generate original songs based off source material
 2. Combine those original songs into a smooth and original mash-up/remix, simulating a DJ at a party
 
-To accomplish the first goal, we parsed musical notes and calculated note transition frequencies from Midi files to generate discrete time Markov Chain (DTMC) representations for single songs. We extended on the vanilla DTMC approach with an n-gram featurization, simulating higher order Markov Chains and better allowing us to capture local dependencies and phrasings beyond just the previous note.
+To accomplish the first goal, we parsed musical notes and calculated note transition frequencies from Midi files to generate discrete time Markov Chain (DTMC) representations for single songs. We extended the vanilla DTMC approach with an n-gram featurization, simulating higher order Markov Chains and better allowing us to capture local dependencies and phrasings beyond just the previous note.
 
 This gave us the starting point of original compositions to mix together for the second, more interesting, goal. This second goal involved two major barriers.
 
